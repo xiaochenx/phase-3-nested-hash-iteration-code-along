@@ -1,9 +1,9 @@
-# Code Along: Manipulating Nested Hashes
+# Manipulating Nested Hashes Code-Along
 
-## Objectives
+## Learning Goals
 
-1. Iterate through a nested hash
-2. Modify the correct element in a nested hash
+- Iterate through a nested hash
+- Modify the correct element in a nested hash
 
 ## Why Nested Hashes Matter
 
